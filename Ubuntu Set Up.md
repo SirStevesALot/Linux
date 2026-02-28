@@ -50,8 +50,6 @@ sudo apt install -y ubuntu-restricted-extras
 - Steam
 - Pika backup 
 - Calibre   
-- Edge (for work)
-- Teams (for work)
 
 
 ### 🪛 Install Fastfetch and set to Terminal startup
