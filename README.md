@@ -1,2 +1,2 @@
-# Ubuntu
-Ubuntu how to's and scripts
+# Linux
+How to's and scripts
